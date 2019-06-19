@@ -1,7 +1,7 @@
 
 
 .nav a {
-  color: black;
+  color: blue;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
@@ -11,7 +11,7 @@
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .container-fluid h1 {
-    color: black;
+    color: blue;
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
 
