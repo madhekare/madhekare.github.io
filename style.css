@@ -1,9 +1,5 @@
 
-#image{
-visibility: hidden;/* hide the image */
-width: 100%; /* set width of image to 100% of body */
-height: 50%; /* set height of image to 50% of body */
-}
+
 .nav a {
   color: black;
   font-size: 20px;
