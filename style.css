@@ -1,7 +1,11 @@
 
-
+#image{
+visibility: hidden;/* hide the image */
+width: 100%; /* set width of image to 100% of body */
+height: 50%; /* set height of image to 50% of body */
+}
 .nav a {
-  color: blue;
+  color: black;
   font-size: 20px;
   font-weight: bold;
   text-align: center;
@@ -11,7 +15,7 @@
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .container-fluid h1 {
-    color: blue;
+    color: black;
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
 
