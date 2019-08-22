@@ -14,6 +14,9 @@ height: 50%; /* set height of image to 50% of body */
   text-transform: uppercase;
     font-family: 'Open Sans Condensed', sans-serif;
 }
+.footer {
+  background : black;
+}
 .container-fluid h1 {
     color: black;
     text-align: center;
